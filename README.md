@@ -35,6 +35,7 @@
 <img src="https://user-images.githubusercontent.com/86561198/161390517-a952f5da-ab75-47b7-a642-1dd873054470.svg" title="kk" alt="kkkk" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/86561198/161390519-f0d57109-3f43-4314-8967-38e70706eecd.png" title="kk" alt="kkkk" width="40" height="40"/>&nbsp;
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
+<img align="left" alt="Visual Studio Code" width="40px" src="https://user-images.githubusercontent.com/86561198/161391033-73b54ec9-bdbf-4ea0-a673-275f387cfe3d.png" />&nbsp;  
 </div>
 
 <br />
