@@ -11,11 +11,15 @@
 
 ![HeadHunter_logo](https://user-images.githubusercontent.com/86561198/161389000-f724fb2e-803f-4394-b4c8-cea6927f21b4.png)[HeadHunter]
 ![linkedin](https://user-images.githubusercontent.com/86561198/161389002-f3506832-014b-4483-8b25-71145f57162f.png)[Linkedin]
-![telega](https://user-images.githubusercontent.com/86561198/161389197-fdf4493e-b988-4289-bfd7-ba6dc17c489b.png)
 ![52-520535_free-files-github-github-icon-png-white](https://user-images.githubusercontent.com/86561198/161389200-e98ea29c-8d7c-4446-b9bf-f9b3918f21ad.png)
 ![1200px-Instagram-Icon](https://user-images.githubusercontent.com/86561198/161389006-b5da36d5-4443-4ee1-ac23-68b521cddddf.png)
 ![telegram-logo-circle-1024x1024](https://user-images.githubusercontent.com/86561198/161389257-a2912415-d658-426c-af5f-981b507d878d.png)
 
+<img align="left" alt="Hearhunter" width="32px" src="https://user-images.githubusercontent.com/86561198/161389000-f724fb2e-803f-4394-b4c8-cea6927f21b4.png" />
+<img align="left" alt="linkedin" width="32px" src="https://user-images.githubusercontent.com/86561198/161389002-f3506832-014b-4483-8b25-71145f57162f.png" />
+<img align="left" alt="Github" width="32px" src="https://user-images.githubusercontent.com/86561198/161389200-e98ea29c-8d7c-4446-b9bf-f9b3918f21ad.png" />
+<img align="left" alt="Instagram" width="32px" src="https://user-images.githubusercontent.com/86561198/161389006-b5da36d5-4443-4ee1-ac23-68b521cddddf.png" />
+<img align="left" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/86561198/161389257-a2912415-d658-426c-af5f-981b507d878d.png" />
 
 <br />
 
