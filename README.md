@@ -23,13 +23,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   
-  <br />
-  
+</div> 
+ <div> 
   <img src="https://user-images.githubusercontent.com/86561198/161390505-6beaa73b-7f6f-433f-b881-9706b22c54a8.png" title="vuejs" alt="vue" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/86561198/161390508-2225e650-d87c-4311-84d1-41987849859b.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/86561198/161390510-69078cd7-ca21-441e-a1a8-367e18ab6d3f.png" title="styled components" alt="cs" width="40" height="40"/>&nbsp;
