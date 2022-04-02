@@ -47,4 +47,4 @@
 
 ## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkrainiAnt&count_private=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UkrainiAnt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkrainiAnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
