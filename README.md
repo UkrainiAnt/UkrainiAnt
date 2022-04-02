@@ -11,8 +11,8 @@
 
 ![HeadHunter_logo](https://user-images.githubusercontent.com/86561198/161389000-f724fb2e-803f-4394-b4c8-cea6927f21b4.png)[HeadHunter]
 ![linkedin](https://user-images.githubusercontent.com/86561198/161389002-f3506832-014b-4483-8b25-71145f57162f.png)[Linkedin]
-![named](https://user-images.githubusercontent.com/86561198/161389004-4ba3f3f3-e7e0-41af-9d3f-80c31b8af7a0.png)
-![unnamed](https://user-images.githubusercontent.com/86561198/161389005-57c69c9d-44aa-452c-9f6d-b575d1def573.png)
+![telega](https://user-images.githubusercontent.com/86561198/161389197-fdf4493e-b988-4289-bfd7-ba6dc17c489b.png)
+![52-520535_free-files-github-github-icon-png-white](https://user-images.githubusercontent.com/86561198/161389200-e98ea29c-8d7c-4446-b9bf-f9b3918f21ad.png)
 ![1200px-Instagram-Icon](https://user-images.githubusercontent.com/86561198/161389006-b5da36d5-4443-4ee1-ac23-68b521cddddf.png)
 
 
