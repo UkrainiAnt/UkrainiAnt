@@ -48,3 +48,6 @@
 ## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkrainiAnt&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkrainiAnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=UkrainiAnt&count_private=true" title="Git" **alt="Git" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UkrainiAnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats" title="Git" **alt="Git" width="400" />
