@@ -29,13 +29,11 @@
   
 </div> 
  <div> 
-  <img src="https://user-images.githubusercontent.com/86561198/161390505-6beaa73b-7f6f-433f-b881-9706b22c54a8.png" title="vuejs" alt="vue" width="40" height="40"/>&nbsp;
-
-  <img src="https://user-images.githubusercontent.com/86561198/161390513-f60db302-aeb1-4d4d-9255-63fa5d5d1edb.png" title="Prisma " alt="Prisma" width="30" height="40"/>&nbsp;
-
-  <img src="https://user-images.githubusercontent.com/86561198/161390516-10857769-8ca4-4a3d-8029-36edb61f3822.png" title="Firebase" alt="firebase" width="40" height="40" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/86561198/161390517-a952f5da-ab75-47b7-a642-1dd873054470.svg" title="kk" alt="kkkk" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/86561198/161390519-f0d57109-3f43-4314-8967-38e70706eecd.png" title="kk" alt="kkkk" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/86561198/161390505-6beaa73b-7f6f-433f-b881-9706b22c54a8.png" title="vuejs" alt="vue" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/86561198/161390513-f60db302-aeb1-4d4d-9255-63fa5d5d1edb.png" title="Prisma " alt="Prisma" width="30" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/86561198/161390516-10857769-8ca4-4a3d-8029-36edb61f3822.png" title="Firebase" alt="firebase" width="40" height="40" />&nbsp;
+<img src="https://user-images.githubusercontent.com/86561198/161390517-a952f5da-ab75-47b7-a642-1dd873054470.svg" title="kk" alt="kkkk" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/86561198/161390519-f0d57109-3f43-4314-8967-38e70706eecd.png" title="kk" alt="kkkk" width="40" height="40"/>&nbsp;
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 </div>
 
