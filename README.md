@@ -37,11 +37,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="nuxt" alt="nuxt" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/86561198/161390508-2225e650-d87c-4311-84d1-41987849859b.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/86561198/161390510-69078cd7-ca21-441e-a1a8-367e18ab6d3f.png" title="styled components" alt="cs" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/86561198/161390511-3fdd2a45-0353-4d46-b30b-4aa3a739c38e.png" title="Mongodb" alt="Mongo" width="40" height="40" />&nbsp;
 <img src="https://user-images.githubusercontent.com/86561198/161390513-f60db302-aeb1-4d4d-9255-63fa5d5d1edb.png" title="Prisma " alt="Prisma" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/86561198/161390514-02fa5c51-2731-4338-8ecf-34da4b3324b3.png" title="Expo" alt="expo" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/86561198/161390515-2760e974-ec4f-4d33-811c-f2cb034d6cff.png" title="Jest" alt="Prisma" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/86561198/161390516-10857769-8ca4-4a3d-8029-36edb61f3822.png" title="Firebase" alt="firebase" width="40"height="40"/>&nbsp;
+
+<img src="https://user-images.githubusercontent.com/86561198/161390516-10857769-8ca4-4a3d-8029-36edb61f3822.png" title="Firebase" alt="firebase" width="40" height="40" />&nbsp;
 <img src="https://user-images.githubusercontent.com/86561198/161390517-a952f5da-ab75-47b7-a642-1dd873054470.svg" title="kk" alt="kkkk" width="40" height="40"/>&nbsp; <img src="https://user-images.githubusercontent.com/86561198/161390519-f0d57109-3f43-4314-8967-38e70706eecd.png" title="kk" alt="kkkk" width="40" height="40"/>&nbsp;
 
 </div>
