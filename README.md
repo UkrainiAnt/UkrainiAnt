@@ -1,4 +1,4 @@
-- ### Hi there, I am Milchevich Builo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- ## Hi there, I am Milchevich Builo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on making my skills better
 - 🌱 I’m currently learning Nest.js, Prisma, PostgreSql, React Native, Web3, React.18.0
