@@ -13,18 +13,18 @@
  <a href="https://hh.ru/applicant/resumes/view?resume=4fcb6a28ff096f68ab0039ed1f45746e416337" target="_blank" rel="noreferrer">
  <img align="left" alt="Hearhunter" width="37px" src="https://user-images.githubusercontent.com/86561198/161389000-f724fb2e-803f-4394-b4c8-cea6927f21b4.png" />
  </a>
-<a href="https://hh.ru/applicant/resumes/view?resume=4fcb6a28ff096f68ab0039ed1f45746e416337" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/builo-milchevich-772733236/" target="_blank" rel="noreferrer">
 <img align="left" alt="linkedin" width="37px" src="https://user-images.githubusercontent.com/86561198/161389002-f3506832-014b-4483-8b25-71145f57162f.png" />
 </a>
   
-<a href="https://hh.ru/applicant/resumes/view?resume=4fcb6a28ff096f68ab0039ed1f45746e416337" target="_blank" rel="noreferrer">
+<a href="https://github.com/UkrainiAnt" target="_blank" rel="noreferrer">
 <img align="left" alt="Github" width="37px" src="https://user-images.githubusercontent.com/86561198/161389200-e98ea29c-8d7c-4446-b9bf-f9b3918f21ad.png" />
 </a>
   
-<a href="https://hh.ru/applicant/resumes/view?resume=4fcb6a28ff096f68ab0039ed1f45746e416337" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/builitomigmcom/" rel="noreferrer">
 <img align="left" alt="Instagram" width="37px" src="https://user-images.githubusercontent.com/86561198/161389006-b5da36d5-4443-4ee1-ac23-68b521cddddf.png" />
 </a>
-<a href="https://hh.ru/applicant/resumes/view?resume=4fcb6a28ff096f68ab0039ed1f45746e416337" target="_blank" rel="noreferrer">
+<a href="https://t.me/Stepan_Neverov" target="_blank" rel="noreferrer">
 <img align="left" alt="Telegram" width="37px" src="https://user-images.githubusercontent.com/86561198/161389257-a2912415-d658-426c-af5f-981b507d878d.png" />
 </a>
 </div>
