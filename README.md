@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div> 
 <br/>
-<br/>
  <div> 
 <img src="https://user-images.githubusercontent.com/86561198/161390505-6beaa73b-7f6f-433f-b881-9706b22c54a8.png" title="vuejs" alt="vue" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/86561198/161390513-f60db302-aeb1-4d4d-9255-63fa5d5d1edb.png" title="Prisma " alt="Prisma" width="30" height="40"/>&nbsp;
