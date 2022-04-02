@@ -9,13 +9,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | Twitter" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vibhorchaudhary | GitHub" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="34px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vibhorchaudhary | Facebook" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vibhorchaudhary | Telegram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+![HeadHunter_logo](https://user-images.githubusercontent.com/86561198/161389000-f724fb2e-803f-4394-b4c8-cea6927f21b4.png)[HeadHunter]
+![linkedin](https://user-images.githubusercontent.com/86561198/161389002-f3506832-014b-4483-8b25-71145f57162f.png)[Linkedin]
+![named](https://user-images.githubusercontent.com/86561198/161389004-4ba3f3f3-e7e0-41af-9d3f-80c31b8af7a0.png)
+![unnamed](https://user-images.githubusercontent.com/86561198/161389005-57c69c9d-44aa-452c-9f6d-b575d1def573.png)
+![1200px-Instagram-Icon](https://user-images.githubusercontent.com/86561198/161389006-b5da36d5-4443-4ee1-ac23-68b521cddddf.png)
+
 
 <br />
 
