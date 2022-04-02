@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on making my skills better
 - 🌱 I’m currently learning Nest.js, Prisma, PostgreSql, React Native, Web3, React.18.0
-- 👀 I’m looking for the job owners
+- 👀 I’m looking for the job owners and peoples to talk with, because in my current environment I have a defict of that.
 - 📫 How to reach me: You can reach me with links below
-- ✨ Ask me anything related to React and js
+- ✨ Ask me anything related to React, Javascript, HTML5, CSS5, Nextjs, Tailwindcss and more...
 - ⚡ Fun fact: I am 16
 
-### Connect with me:
+## Connect with me:
 
 <img align="left" alt="Hearhunter" width="37px" src="https://user-images.githubusercontent.com/86561198/161389000-f724fb2e-803f-4394-b4c8-cea6927f21b4.png" />
 <img align="left" alt="linkedin" width="37px" src="https://user-images.githubusercontent.com/86561198/161389002-f3506832-014b-4483-8b25-71145f57162f.png" />
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
