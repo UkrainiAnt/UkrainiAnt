@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋🖐🏿👋🏿🤚🏿
 
 - 🔭 I’m currently working on making my skills better
 - 🌱 I’m currently learning Nest.js, Prisma, PostgreSql, React Native, Web3, React.18.0
