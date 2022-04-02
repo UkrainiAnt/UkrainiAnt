@@ -14,6 +14,7 @@
 ![telega](https://user-images.githubusercontent.com/86561198/161389197-fdf4493e-b988-4289-bfd7-ba6dc17c489b.png)
 ![52-520535_free-files-github-github-icon-png-white](https://user-images.githubusercontent.com/86561198/161389200-e98ea29c-8d7c-4446-b9bf-f9b3918f21ad.png)
 ![1200px-Instagram-Icon](https://user-images.githubusercontent.com/86561198/161389006-b5da36d5-4443-4ee1-ac23-68b521cddddf.png)
+![telegram-logo-circle-1024x1024](https://user-images.githubusercontent.com/86561198/161389257-a2912415-d658-426c-af5f-981b507d878d.png)
 
 
 <br />
