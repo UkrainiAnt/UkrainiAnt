@@ -46,6 +46,6 @@
 [telegram]: https://t.me/vibhorchaudhary
 
 ## Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkrainiAnt&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkrainiAnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkrainiAnt&count_private=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UkrainiAnt&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
