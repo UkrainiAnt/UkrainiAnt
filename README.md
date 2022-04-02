@@ -17,7 +17,7 @@
 
 ## Languages and Tools:
 
-<div>
+<div style="padding-bottom:15px">
   <img src="https://user-images.githubusercontent.com/86561198/161391165-09bf5df0-de96-44dd-bdaa-db83588a8058.png" title="redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/86561198/161391167-97b6de02-b808-48a5-bf8c-2376ac9ca278.svg"  title="react-query" alt="rq" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
