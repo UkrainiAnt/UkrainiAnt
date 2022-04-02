@@ -1,11 +1,3 @@
-### Hi there 👋🖐🏿👋🏿🤚🏿
-
-- 🔭 I’m currently working on making my skills better
-- 🌱 I’m currently learning Nest.js, Prisma, PostgreSql, React Native, Web3, React.18.0
-- 👀 I’m looking for help with job
-- 📫 How to reach me: You can reach me with links below
-- ✨ Ask me anything related to React and js
-- ⚡ Fun fact: I am 16
 - ### Hi there, I am Milchevich Builo 👋🖐🏿👋🏿🤚🏿
 
 - 🔭 I’m currently working on making my skills better
@@ -14,7 +6,6 @@
 - 📫 How to reach me: You can reach me with links below
 - ✨ Ask me anything related to React and js
 - ⚡ Fun fact: I am 16
-## Connect with me: 
 
 ### Connect with me:
 
@@ -48,12 +39,6 @@
 <br />
 <br />
 
-
-### 📕 Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Creating an Impressive GitHub Profile README](https://medium.com/@mr.vibhorchaudhary/impressive-github-profile-readme-606e3b7b075d?source=rss-30c08688da0e------2)
-<!-- BLOG-POST-LIST:END -->
-
 [website]: https://forum.xda-developers.com/m/vibhorchaudhary.5991465/
 [linkedin]: https://linkedin.com/in/vibhorchaudhary
 [instagram]: https://www.instagram.com/mr.vibhorchaudhary/
@@ -61,10 +46,6 @@
 [facebook]: https://www.facebook.com/vibhorchaudhary
 [github]: https://github.com/vibhorchaudhary
 [telegram]: https://t.me/vibhorchaudhary
-
-
-## Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkrainiAnt&count_private=true)
 
 ## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UkrainiAnt&count_private=true)
