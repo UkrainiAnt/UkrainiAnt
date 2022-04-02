@@ -16,6 +16,8 @@
 <img align="left" alt="Telegram" width="37px" src="https://user-images.githubusercontent.com/86561198/161389257-a2912415-d658-426c-af5f-981b507d878d.png" />
 </div>
 
+<br />
+
 ## Languages and Tools:
 
 <div style="padding-bottom:15px">
