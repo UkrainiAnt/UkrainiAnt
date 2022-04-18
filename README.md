@@ -6,7 +6,7 @@
 - 📫 How to reach me: You can reach me with links below
 - ✨ Ask me anything related to React, Javascript, HTML5, CSS5, Nextjs, Tailwindcss and more...
 - 📑 My CV: https://app.luminpdf.com/viewer/6248b959b79871c33f25450b
-- ⚡ Fun fact: I am 1(x) yearsold
+- ⚡ Fun fact: I am 16
 
 ## Connect with me:
 <div>
